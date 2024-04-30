@@ -11,7 +11,7 @@ A copy of the crowdfunding information was created to organize the data based on
 We read the contacts excel data to import into a dataframe and used regular expressions to extract the four digit contact ID number, name, and email and created a new copy of the dataframe to organize by first and last name.
 
 ## Crowdfunding Database
-All the data was then exported into csv files and a database schema was created to organize the data into tables for SQL. Primary and foreign keys were assigned, and an ERD was sketched to draw the relationships between the columns of the tables. Table output snapshots are available [here](https://github.com/thomasjngo/Crowdfunding-ETL-Project/tree/main/Table%20Outputs).
+All the data was then exported into csv files and a database schema was created to organize the data into tables for SQL. Primary and foreign keys were assigned, and an ERD was sketched to draw the relationships between the columns of the tables. Table output screenshots are available [here](https://github.com/thomasjngo/Crowdfunding-ETL-Project/tree/main/Table%20Outputs).
 
 
 ![Alt text](https://github.com/thomasjngo/Crowdfunding-ETL-Project/blob/main/ERD.png?raw=true)
