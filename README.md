@@ -13,4 +13,4 @@ We read the contacts excel data to import into a dataframe and used regular expr
 ## Crowdfunding Database
 All the data was then exported into csv files and a database schema was created to organize the data into tables for SQL. Primary and foreign keys were assigned, and an ERD was sketched to draw the relationships between the columns of the tables. Table output snapshots are available [here](https://github.com/thomasjngo/Crowdfunding-ETL-Project/tree/main/Table%20Outputs)
 
-![Alt text](https://github.com/thomasjngo/Crowdfunding-ETL-Project/blob/main/ERD.png?raw=true)
+
