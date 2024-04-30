@@ -1,4 +1,4 @@
-# Crowdfunding-ETL-Project
+# Crowdfunding-ETL-Project (Jeesu Kwon, Thomas Ngo, Yvette Song)
 
 ## Category and Subcategories
 Using the contacts and crowdfunding excel files, we extracted and transformed the data to make category and subcategory dataframes that are numbered sequential from 1 to the length of unique categories and subcategories. Afterwards, we used list comprehension to add cat to each category and subcategory ID and made an array which was then used to create new dataframes.
